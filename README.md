@@ -8,10 +8,8 @@ To get started, you will need to download and install XAMPP on your computer. Yo
 
 Once you have XAMPP installed, you can clone this repository to your htdocs folder in the XAMPP directory.
 
-sh
-
-$ cd /path/to/xampp/htdocs
-$ git clone https://github.com/yourusername/php-ecommerce.git
+    cd /path/to/xampp/htdocs
+    git clone https://github.com/yamishy/php-ecommerce-capstone.git
 
 After cloning the repository, start the apache and sql servers using XAMPP and navigate to localhost/project/index.php in your web browser to see the website.
 ## Features
